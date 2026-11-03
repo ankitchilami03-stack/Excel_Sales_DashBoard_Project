@@ -1,72 +1,38 @@
-Sales Performance & Profitability Dashboard
-Project Overview
+# Sales Performance & Profitability Dashboard | Excel
 
-This project presents an interactive Sales Performance and Profitability Dashboard built using Microsoft Excel. It helps analyze business performance, track revenue and profit, and understand sales trends across different categories, regions, countries, and sales channels.
+## Project Overview
+An interactive Excel dashboard that analyzes business performance, tracks revenue and profit, and surfaces sales trends across product categories, regions, countries, and sales channels.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators
+- Total Revenue
+- Total Profit
+- Total Gross Profit
+- Total Units Sold
+- Total Orders
+- Cost of Goods Sold (COGS)
 
-Total Revenue
+## Dashboard Features
+- **Monthly Trends:** Revenue and gross profit by month
+- **Top 5 Countries:** Sales comparison across the leading markets
+- **Region-Wise Comparison:** Performance by region
+- **Sales Channel Analysis:** Corporate, Marketplace, Online Store, Retail Partners
+- **Product Category Filter:** Camping, Cycling, Fitness, Hiking, Travel
+- **Quarterly Analysis:** Q1 to Q4 performance
+- **Interactive Slicers:** Dynamic filtering across the whole dashboard
 
-Total Profit
+## Tools & Technologies
+Microsoft Excel · Pivot Tables · Pivot Charts · Slicers · Data Cleaning · Data Analysis · Data Visualization
 
-Total Gross Profit
+## Dashboard Preview
+![Dashboard Preview](images/sales-dashboard.png)
 
-Total Units Sold
+## Key Learnings
+- Building interactive dashboards in Excel
+- Analyzing business revenue and profitability
+- Working with Pivot Tables and Pivot Charts
+- Creating KPI cards and interactive filters
+- Presenting business insights through data visualization
 
-Total Orders
-
-Cost of Goods Sold (COGS)
-
-Dashboard Features
-
-Monthly Revenue and Profit: Track monthly revenue and gross profit trends.
-
-Top 5 Countries: Compare sales performance across the top five countries.
-
-Region-Wise Comparison: Analyze performance across different regions.
-
-Sales Channel Analysis: Compare Corporate, Marketplace, Online Store, and Retail Partners.
-
-Product Category Filter: Filter data by Camping, Cycling, Fitness, Hiking, and Travel.
-
-Quarterly Analysis: Analyze performance across Q1, Q2, Q3, and Q4.
-
-Interactive Slicers: Filter dashboard data dynamically.
-
-Tools & Technologies
-
-Microsoft Excel
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Data Cleaning
-
-Data Analysis
-
-Data Visualization
-
-Dashboard Preview
-
-
-
-Key Learnings
-
-Creating interactive dashboards in Excel.
-
-Analyzing business revenue and profitability.
-
-Working with Pivot Tables and Pivot Charts.
-
-Building KPI cards and interactive filters.
-
-Presenting business insights through data visualization.
-
-Author
-
-Ankit Siddappa Chilami
-
-GitHub: ankitchilami03-stack
+## Author
+**Ankit Siddappa Chilami**
+GitHub: [ankitchilami03-stack](https://github.com/ankitchilami03-stack)
